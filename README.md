@@ -1,2 +1,2 @@
-# Wellcome to TicTacToe game
-# Have a fun and enjoj!
+# Welcome to TicTacToe game
+# Have a fun and enjoj !
